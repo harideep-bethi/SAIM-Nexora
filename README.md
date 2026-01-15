@@ -3,6 +3,7 @@ SAIM is a building-level earthquake early warning prototype developed during Nex
 
 ## Overview
 The system detects early seismic vibrations inside a structure and delivers real-time mobile alerts to occupants before strong destructive shaking occurs.
+The prototype demonstrates how localized sensing and rapid alert delivery can reduce response time in high-rise buildings.
 
 ## System Components
 - Hand-fabricated scaled building model
